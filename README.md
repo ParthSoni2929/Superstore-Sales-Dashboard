@@ -32,7 +32,7 @@ The goal of this dashboard is to analyze sales performance, profit trends, and c
 ---
 
 📸 Dashboard Preview  
-[Dashboard Preview](https://github.com/ParthSoni2929/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.png))  
+[Dashboard Preview](https://github.com/ParthSoni2929/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.png)
 
 ---
 
