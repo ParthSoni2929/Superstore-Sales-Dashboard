@@ -1,19 +1,19 @@
-# 📊 Superstore Sales Dashboard – Power BI  
+📊 Superstore Sales Dashboard – Power BI  
 
-## 📌 Project Overview  
+📌 Project Overview  
 This project is a **Power BI dashboard** built using the popular *Superstore Sales dataset*.  
 The goal of this dashboard is to analyze sales performance, profit trends, and customer orders across different categories, regions, and time periods.  
 
 ---
 
-## 📂 Dataset  
+📂 Dataset  
 - **Source**: [Kaggle – Sample Superstore Dataset](https://www.kaggle.com/datasets)  
 - **Format**: Excel / CSV  
 - Contains sales transactions with columns such as *Order Date, Category, Segment, Region, Sales, Profit, Quantity, and Customer Name*.  
 
 ---
 
-## 📊 Dashboard Features  
+📊 Dashboard Features  
 - 📌 **KPI Cards** – Highlights *Total Sales, Profit, and Orders*  
 - 📊 **Bar Chart** – Sales by Category  
 - 📊 **Stacked Bar Chart** – Profit by Segment  
@@ -24,19 +24,19 @@ The goal of this dashboard is to analyze sales performance, profit trends, and c
 
 ---
 
-## 🚀 How to Use  
+🚀 How to Use  
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
 3. Explore the dashboard using the slicers and interactive visuals.  
 
 ---
 
-## 📸 Dashboard Preview  
-![Dashboard Preview](powerbi.png)  
+📸 Dashboard Preview  
+[Dashboard Preview]([powerbi.png](https://github.com/ParthSoni2929/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.png))  
 
 ---
 
-## 📌 Key Insights  
+📌 Key Insights  
 - **Technology** category contributes the highest sales.  
 - **Consumer segment** drives the most profit.  
 - **West region** shows strong performance compared to other regions.  
@@ -44,7 +44,7 @@ The goal of this dashboard is to analyze sales performance, profit trends, and c
 
 ---
 
-## 🛠 Tools & Technologies  
+🛠 Tools & Technologies  
 - **Power BI Desktop**  
 - **Excel / CSV dataset** from Kaggle  
 
